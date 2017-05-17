@@ -5,7 +5,7 @@ To be able to sum 2 roman numbers and write out the result in roman number as we
 - JDK 1.5++
 
 ## Preparation
-- Extract the project zip to some destination. You will have the **algorithms_problems** folder
+- Extract the project zip to some destination or checkout from git repository. You will have the **algorithms_problems** folder
 - Enter the command prompt and change current directory to the algorithms_problems folder
  
 ## How to compile
